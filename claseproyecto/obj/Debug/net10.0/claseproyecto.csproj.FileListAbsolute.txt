@@ -1,0 +1,15 @@
+/workspaces/Clase1c/claseproyecto/bin/Debug/net10.0/claseproyecto
+/workspaces/Clase1c/claseproyecto/bin/Debug/net10.0/claseproyecto.deps.json
+/workspaces/Clase1c/claseproyecto/bin/Debug/net10.0/claseproyecto.runtimeconfig.json
+/workspaces/Clase1c/claseproyecto/bin/Debug/net10.0/claseproyecto.dll
+/workspaces/Clase1c/claseproyecto/bin/Debug/net10.0/claseproyecto.pdb
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.AssemblyInfoInputs.cache
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.AssemblyInfo.cs
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.csproj.CoreCompileInputs.cache
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.sourcelink.json
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.dll
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/refint/claseproyecto.dll
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.pdb
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/claseproyecto.genruntimeconfig.cache
+/workspaces/Clase1c/claseproyecto/obj/Debug/net10.0/ref/claseproyecto.dll
