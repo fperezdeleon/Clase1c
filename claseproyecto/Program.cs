@@ -18,13 +18,13 @@ namespace CSharpHelloWorld
             */
 
             // Variables
-/*
+
             string myString = "Esto es una cadena de texto";
             Console.WriteLine(myString);
             myString = "Aquí cambio el valor de la cadena de texto";
             Console.WriteLine("\n" + myString + "\n");
 
-            int myInt = 7;
+ /*           int myInt = 7;
             myInt = myInt + 4;
             Console.WriteLine(myInt);
             Console.WriteLine(myInt - 1);
@@ -57,9 +57,11 @@ namespace CSharpHelloWorld
 
             const string MyConst = "Mi constante";
             Console.WriteLine(MyConst);
-
-            // Arrays
 */
+
+
+ /*           // Arrays
+
             var myArray = new string[] { "Francisco", "Gines", "Majuelo" };
             Console.WriteLine(myArray[0]);
 
@@ -189,6 +191,9 @@ bool myBool = true;
                 
             }
         }
+
+ */
         
     }
-}
+    
+    }}
